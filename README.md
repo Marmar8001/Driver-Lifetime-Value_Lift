@@ -44,5 +44,5 @@ After exploring and analyzing the data, the analysis will focus on the following
 4. **Segments of Drivers with Higher Value**
 5. **Actionable Recommendations for the Business**
 
-For a detailed analysis and findings, please refer to the complete report provided in this repository.
+For a detailed analysis and findings, please refer to the complete report provided in this repository. Please note that one of the files is too large to be included in the repository and cannot be directly uploaded(ride_timestamps.csv). If you require access to the large file, please contact me for alternative methods of sharing the data.
 
